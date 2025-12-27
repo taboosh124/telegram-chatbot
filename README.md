@@ -47,7 +47,7 @@ Install dependencies
 - Open your telegram
 - Search for 'BotFather'
 
-![Screenshots](screenshots/BOT_FATHER)
+![Screenshots](screenshots/BOT_Father.png)
 ## Creating username
 
 First click 'start' then a big menu will be opened, Click or write, 'new-bot', After that, choose your username.
@@ -61,4 +61,4 @@ You can set a name and upload a picture
 ## Explanation 
 
 ![Screenshots](screenshots/Explantion-1.jpeg)
-![Screenshots](screenshots/Explantion-1.jpeg)
+![Screenshots](screenshots/Explantion-2.jpeg)
