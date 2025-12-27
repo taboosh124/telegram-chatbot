@@ -5,7 +5,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 TOKEN: Final =  "YOUR_BOT_TOKEN_HERE"
 
-BOT_USERNAME: Final = '@Taboosh123Bot'
+BOT_USERNAME: Final = '@_YOUR_USERNAME'
 
 async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text('Hello, How can I help you?')
